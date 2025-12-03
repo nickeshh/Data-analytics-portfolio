@@ -2,7 +2,7 @@
 My PowerBi portfolio showcasing the Dashboard, power query, SQL, data cleaning and data analysis projects.
 # 📊 Data Analyst Portfolio
 
-👋 Hi, I'm [Your Name], a passionate Data Analyst skilled in **Power BI, SQL, Python, and Data Visualization**.  
+👋 Hi, I'm Nikesh, a passionate Data Analyst skilled in **Power BI, SQL, Python, and Data Visualization**.  
 This portfolio showcases my key projects and dashboards.  
 
 ## 🔹 Projects
